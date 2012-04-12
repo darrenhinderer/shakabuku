@@ -1,0 +1,24 @@
+h2. Shakabuku
+
+_It's a swift, spiritual kick to the head that alters your reality forever._
+
+This is an Android widget meant to help with the development and testing of Android applications. The most common way of using Shakabuku is to test that state is being saved. 
+
+h3. What it does
+
+The widget will kill the processes related to the app specified, and jumps you back to activity you were in last.
+
+This simulates a common scenario where the OS shuts down the application process.
+
+Configuration changes comes close to this simulation (like orientation change), but doesn't kill off the processes, just the current activity.
+
+h3. How to use it
+
+1. Add the widget to your home screen
+2. Pick an application to associate with Shakabuku
+3. Open the app under test to the activity
+4. Tap the home button
+5. Tap the Shakabuku widget
+6. Observe application behavior
+
+If needed, you can setup multiple Shakabuku widgets to point to different applications.

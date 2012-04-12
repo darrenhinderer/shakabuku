@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shakabuku</string>
+    <string name="pick_app">Pick application</string>
+    <string name="attach_application">Please attach an application to this widget.</string>
+    <string name="apps_loading">App list is loading&#8230;</string>
+    <string name="configure">Configure Shakabuku</string>
+</resources>
